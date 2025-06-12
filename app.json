@@ -1,20 +1,20 @@
 {
   "name": "whatsapp-Automation",
   "description": " Whatsapp Ai",
-  "repository": "https://github.com/Tohidkhan6332/TOHID-AI",
+  "repository": "https://github.com/ameermuawiya/TOHID-AI",
   "logo": "https://i.imgur.com/M1BzE37.jpeg",
-  "success_url": "https://github.com/Tohidkhan6332/TOHID-AI",
+  "success_url": "https://github.com/ameermuawiya/TOHID-AI",
   "keywords": [
     "whatsapp Ai", "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "hindi", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "tohid-ai-bot"
   ],
-  "repository": "https://github.com/Tohidkhan6332/TOHID-AI",
+  "repository": "https://github.com/ameermuawiya/TOHID-AI",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": "917849917350"
+      "value": "+923423071137"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -84,12 +84,12 @@
     "TIME_ZONE": {
       "description": "your time zone",
       "required": true,
-      "value": "India/Haryana"
+      "value": "Asia/Karachi"
     },
     "OWNER_NAME": {
       "description": "your owner Name",
       "required": false,
-      "value": "Mr Tohid"
+      "value": "Ameer Muawiya"
     },
      "REMOVEBG_KEY": {
       "description": "your Remove background api key",
