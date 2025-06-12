@@ -29,7 +29,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "h7FlwaoJ#8B__BBwaYjtrvImCkopRPAiualsrZ08TxTbVwG5IfHg"
     },
     "MODE": {
       "description": "mode public or private",
